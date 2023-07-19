@@ -21,7 +21,7 @@ metadat:
       - item: drone pilot
   spec:
     subject:
-     - name: DevOps 101
+     - name: Testing
        protocol: TCP / UDP
        ports: any
     selector:
